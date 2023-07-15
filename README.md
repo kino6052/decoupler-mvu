@@ -1,8 +1,8 @@
 # Decoupler-MVU
 
-Decoupler-MVU is a legacy-proof approach to developing user interfaces, based on the principle of decoupling the business logic from the view, utilizing the Model-View-Update (MVU) architecture that was introduced by (Elm language)[https://guide.elm-lang.org/architecture/]. This approach makes UI code more scalable, testable, and less prone to becoming legacy.
+Decoupler-MVU is a legacy-proof approach to developing user interfaces, based on the principle of decoupling the business logic from the view, utilizing the Model-View-Update (MVU) architecture that was introduced by [Elm language](https://guide.elm-lang.org/architecture/). This approach makes UI code more scalable, testable, and less prone to becoming legacy.
 
-(Decoupler-MVU was introduced in the following articles.)[https://medium.com/@kirill-novik/list/writing-legacyproof-ui-code-2a7d8399d85a]
+[Decoupler-MVU was introduced in the following articles.](https://medium.com/@kirill-novik/list/writing-legacyproof-ui-code-2a7d8399d85a)
 
 ## Overview
 
@@ -25,4 +25,4 @@ We welcome contributions to improve and expand this approach. Fork this reposito
 
 **We encourage you to add your work to the documentation to highlight your contribution.**
 
-Feel free to join our [Telegram](your-telegram-link) and [Discord](your-discord-link) communities for discussions, queries, and suggestions related to this project.
+Feel free to join our Telegram and Discord communities (coming soon!) for discussions, queries, and suggestions related to this project.
